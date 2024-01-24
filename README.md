@@ -17,6 +17,8 @@ c. Visualize the Data:
 - Use visualizations (e.g., histograms, scatter plots) to understand the distribution of numerical features.
 - Explore relationships between variables.
 
+
+
 2. Data Cleaning:
 a. Handle Missing Values:
 - Decide on a strategy for handling missing data (imputation, removal).
@@ -28,6 +30,8 @@ c. Feature Engineering:
 - Create new features if needed.
 - Transform existing features (e.g., log transformations).
 
+
+
 3. Data Preprocessing:
 a. Categorical Variable Encoding:
 - Apply one-hot encoding or other encoding techniques to handle categorical variables.
@@ -38,6 +42,8 @@ b. Feature Scaling:
 c. Train-Test Split:
 - Split the dataset into training and testing sets.
 
+
+
 4. Model Selection:
 a. Choose a Regression Model:
 - Select a regression algorithm suitable for predicting home prices (e.g., Linear Regression, Random Forest, Gradient Boosting).
@@ -45,14 +51,20 @@ a. Choose a Regression Model:
 b. Hyperparameter Tuning:
 - Optimize the model by tuning hyperparameters using techniques like cross-validation.
 
+
+
 5. Model Training:
 a. Fit the Model:
 - Train the selected model using the training dataset.
 
+
 6. Model Evaluation
+
 
 7. Fine-Tuning
 
+
 8. Deployment
+
 
 9. Interpretation
