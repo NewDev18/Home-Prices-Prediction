@@ -1,6 +1,8 @@
 # Home-Prices-Prediction
 This project contains predicting  Banglore Home Prices
---Analyzing and predicting home prices from a dataset typically involves a series of steps. 
+
+Following series of steps were involved in this project. 
+
 1. Data Exploration and Understanding:
 a. Load the Dataset:
 - Import the necessary libraries (e.g., pandas, numpy).
