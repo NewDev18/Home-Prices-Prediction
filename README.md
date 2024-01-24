@@ -4,31 +4,36 @@ This project contains predicting  Banglore Home Prices
 Following series of steps were involved in this project. 
 
 1. Data Exploration and Understanding:
-a. Load the Dataset:
-- Import the necessary libraries (e.g., pandas, numpy).
-- Load the dataset into a DataFrame.
 
-b. Explore the Data:
-- Display basic information about the dataset (head, info, describe).
-- Check for missing values.
-- Understand the structure of the dataset (columns, data types).
+a. Loading the Dataset:
 
-c. Visualize the Data:
-- Use visualizations (e.g., histograms, scatter plots) to understand the distribution of numerical features.
+- Importing the necessary libraries (e.g., pandas, numpy).
+- Loading the dataset into a DataFrame.
+
+b. Exploreing the Data:
+
+- Displaying basic information about the dataset (head, info, describe).
+- Checking for missing values.
+- Understanding the structure of the dataset (columns, data types).
+
+c. Visualizeing the Data:
+
+- Using visualizations (e.g., histograms, scatter plots) to understand the distribution of numerical features.
 - Explore relationships between variables.
 
 
 
 2. Data Cleaning:
-a. Handle Missing Values:
-- Decide on a strategy for handling missing data (imputation, removal).
+
+a. Handling Missing Values:
+- Deciding on a strategy for handling missing data (imputation, removal).
 
 b. Outlier Detection and Handling:
-- Identify and handle outliers if necessary.
+- Identifying and handle outliers if necessary.
 
 c. Feature Engineering:
-- Create new features if needed.
-- Transform existing features (e.g., log transformations).
+- Creating new features if needed.
+- Transforming existing features (e.g., log transformations).
 
 
 
