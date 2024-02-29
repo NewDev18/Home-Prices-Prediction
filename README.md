@@ -13,7 +13,7 @@ a. Loading the Dataset:
 b. Exploreing the Data:
 
 - Displaying basic information about the dataset (head, info, describe).
-- Checking for missing values.
+- Checking for missing value.
 - Understanding the structure of the dataset (columns, data types).
 
 c. Visualizeing the Data:
