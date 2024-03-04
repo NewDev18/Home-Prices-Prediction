@@ -54,7 +54,7 @@ a. Choose a Regression Model:
 - Select a regression algorithm suitable for predicting home prices (e.g., Linear Regression, Random Forest, Gradient Boosting).
 
 b. Hyperparameter Tuning:
-- Optimize the model by tuning hyperparameters using techniques like cross-validation.
+- Optimize the model by tuning hyperparameters using technique like cross-validation.
 
 
 
